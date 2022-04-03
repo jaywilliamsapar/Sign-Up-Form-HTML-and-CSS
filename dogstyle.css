@@ -1,8 +1,7 @@
-*{
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-color: rgb(180, 177, 174);
 }
 
 body {
@@ -17,25 +16,25 @@ h1 {
     color: rgb(16, 13, 19);
     font-family: 'Times New Roman', Times, serif;
     font-size: 35px;
-    background-color: rgb(204, 132, 55);
-    margin: 50px 100px;
+    background-color: #fff;
+    margin: 70px 500px;
 }
 
 .form-1 {
-    padding: 5px;
+    padding: 12px;
     text-align: center;
-    margin: 50px 120px;
-    color: whitesmoke;
+    margin: 50px 530px;
+    color: #fff;
     font-size: larger;
-    background-color: rgb(73, 36, 167);
-    
+    background-color: rgb(124, 55, 55);
+    border-radius: 10px 12px;
 }
 
 .btn-1 {
     padding: 15px 15px;
     border-radius: 15px;
     border-color: antiquewhite;
-    background-color: rgb(62, 218, 218);
+    background-color: rgb(192, 203, 203);
     padding: 10px 25px;
-    
+
 }
