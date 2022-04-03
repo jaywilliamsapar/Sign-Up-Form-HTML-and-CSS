@@ -2,3 +2,5 @@
 
 
 This is a Sign up Form Valadition with HTML and CSS only !! 😉😉
+
+Updating the button function in the Submit button thanks
